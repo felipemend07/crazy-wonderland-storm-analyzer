@@ -85,4 +85,3 @@ for game, df in games_data.items():
     st.divider()
 
 st.info("⚠️ Dados simulados. Em breve, integração com leitura em tempo real do CasinoScores.com")
-
